@@ -1,5 +1,8 @@
-### 4.1 Bảng So sánh
+Họ tên: Đồng Văn Hòa
 
+MSSV: DTC235180213
+
+### 4.1 Bảng So sánh
 
 | Tiêu chí | Cách THỦ CÔNG (Traditional) | Cách DEVOPS (CI/CD Pipeline) |
 |----------|---------------------------|------------------------------|
